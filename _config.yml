@@ -4,16 +4,16 @@
 
 # Site
 title: Hexo
-subtitle: ''
-description: ''
+subtitle: '不停的折腾'
+description: '生命不息，折腾不止'
 keywords:
 author: 卫星
-language: en
-timezone: ''
+language: zh
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://weixingweixing.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
